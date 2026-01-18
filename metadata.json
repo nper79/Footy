@@ -1,0 +1,7 @@
+{
+  "name": "AI Football Manager: Premier Edition",
+  "description": "A high-stakes football management simulator where your words literally change the game. Talk to players in the locker room and shout instructions from the touchline using advanced Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
